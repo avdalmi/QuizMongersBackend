@@ -16,6 +16,7 @@ At the end of our studies, each group was asked to create a web app that follows
 
 # Wireframes:
 
+![wireframes for website](./assets/QuizMongersWireframe.png)
 ![wireframes for website](./src/assets/QuizMongersWireframe.png)
 
 # User stories:
